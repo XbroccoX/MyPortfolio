@@ -56,7 +56,7 @@ const projects = [
         id: 6,
         img: CHMaquina,
         title: 'Brocco Machine',
-        url: '',
+        url: 'https://ch-maquina-js.vercel.app/',
         git: 'https://github.com/XbroccoX/CHMaquinaJS',
         description: 'Develop Operative System aplication that develop multiples task',
         tags: ['Javascript', 'Css', 'Html', 'Vanilla']

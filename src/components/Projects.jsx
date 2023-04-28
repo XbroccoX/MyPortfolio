@@ -4,6 +4,7 @@ import { ProjectItem } from './ProjectItem'
 import traductor from '../assets/projects/traductor.jpg'
 import pokemon from '../assets/projects/pokemon.jpg'
 import tesloshop from '../assets/projects/tesloshop.jpg'
+import CHMaquina from '../assets/projects/CHMaquina.jpg'
 
 const projects = [
     {
@@ -34,13 +35,31 @@ const projects = [
         tags: ['Next.js', 'MongoDB', 'Material UI', 'Rest Full API', 'Docker']
     },
     {
-        id: 3,
+        id: 4,
         img: null,
         title: 'Brocco Jira',
         url: '',
         git: 'https://github.com/XbroccoX/BroccoJiraNextJs',
-        description: 'develop with NextJS and mongoDB for DB, is a project for adminstrate task',
+        description: 'Develop with NextJS and mongoDB for DB, is a project for adminstrate task',
         tags: ['Next.js', 'MongoDB', 'Bootstrap', 'Dragable']
+    },
+    {
+        id: 5,
+        img: null,
+        title: 'Task Manager',
+        url: '',
+        git: 'https://github.com/XbroccoX/planificador-de-tareas-REACT',
+        description: 'Develop Task manager with React.js with localStorage, hooks, useContext, states',
+        tags: ['React.js', 'Hooks',]
+    },
+    {
+        id: 6,
+        img: CHMaquina,
+        title: 'Brocco Machine',
+        url: '',
+        git: 'https://github.com/XbroccoX/CHMaquinaJS',
+        description: 'Develop Operative System aplication that develop multiples task',
+        tags: ['Javascript', 'Css', 'Html', 'Vanilla']
     },
 
 ]

@@ -61,13 +61,13 @@ export const Sidenav = () => {
                                         <a className=" text-gray-700" href="/#main">Home</a>
                                     </li>
                                     <li className="border-b-2 border-transparent hover:border-primary text-white md:text-inherit text-2xl md:text-base">
-                                        <a className=" text-gray-700" href="/#work">Work</a>
+                                        <a className=" text-gray-700" href="/#aboutme">Resume</a>
+                                    </li>
+                                    <li className="border-b-2 border-transparent hover:border-primary text-white md:text-inherit text-2xl md:text-base">
+                                        <a className=" text-gray-700" href="/#Experience">Work</a>
                                     </li>
                                     <li className="border-b-2 border-transparent hover:border-primary text-white md:text-inherit text-2xl md:text-base">
                                         <a className=" text-gray-700" href="/#projects">Projects</a>
-                                    </li>
-                                    <li className="border-b-2 border-transparent hover:border-primary text-white md:text-inherit text-2xl md:text-base">
-                                        <a className=" text-gray-700" href="/#main">Resume</a>
                                     </li>
                                     <li className="border-b-2 border-transparent hover:border-primary text-white md:text-inherit text-2xl md:text-base">
                                         <a className=" text-gray-700" href="/#contact">Contact</a>

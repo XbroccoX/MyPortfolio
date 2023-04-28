@@ -30,8 +30,7 @@ export const Skills = () => {
 
             </div>
             <p className="mt-6 mb-16">
-                A lo largo de los años he ido adquiriendo conocimientos en diferentes áreas de la programación, tanto en el
-                front-end como en el back-end. A continuación, les dejo una lista de las tecnologías que he utilizado en mis proyectos
+                Over the years I have been acquiring knowledge in different areas of programming, both front-end and back-end. Here is a list of the technologies I have used in my projects
             </p>
             <div className="grid grid-cols-3 md:grid-cols-5 lg:grid-cols-7 xl:grid-cols-9 gap-2 gap-y-10 mt-10 mb-12">
                 <div className="flex flex-col items-center hover:scale-110">

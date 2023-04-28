@@ -1,4 +1,5 @@
 export * from './AboutMe'
+export * from './Contact'
 export * from './Sidenav'
 export * from './Skills'
 export * from './Main'

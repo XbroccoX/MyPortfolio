@@ -1,4 +1,4 @@
-import { Sidenav, Main, Doit, AboutMe, Skills, Work, Projects } from "./components"
+import { Sidenav, Main, Doit, AboutMe, Skills, Work, Projects, Contact } from "./components"
 import './App.css'
 
 function App() {
@@ -12,8 +12,11 @@ function App() {
         <Work />
         <Skills />
       </div>
-      <div className=' bg-neutral-200' >
+      <div className=' bg-neutral-100' >
         <Projects />
+      </div>
+      <div className='bg-violet-800' >
+        <Contact />
       </div>
 
     </>

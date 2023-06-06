@@ -53,12 +53,12 @@ export const Main = () => {
                     <a href="https://github.com/XbroccoX" target="_blank" rel="noreferrer" aria-label="Github"
                         className='p-2 rounded-full bg-violet-600 cursor-pointer hover:scale-110'
                     >
-                        <FaTwitter color='white' size={20} />
+                        <FaGithub color='white' size={20} />
                     </a>
                     <a href="https://twitter.com/broccoaristi" target="_blank" rel="noreferrer" aria-label="Twitter"
                         className='p-2 rounded-full bg-violet-600 cursor-pointer hover:scale-110'
                     >
-                        <FaGithub color='white' size={20} />
+                        <FaTwitter color='white' size={20} />
                     </a>
                     <a href="mailto:saaristizabalco@gmail.com" target="_blank" rel="noreferrer"
                         className='p-2 rounded-full bg-violet-600 cursor-pointer hover:scale-110'

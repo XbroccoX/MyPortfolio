@@ -9,18 +9,6 @@ export const Main = () => {
         <section id="main" className="flex flex-col md:flex-row my-auto items-center">
             <div className="md:w-1/2 flex flex-col order-2 md:order-1 items-center md:items-start">
                 <div className="bg-purple-600 w-fit px-4 py-2 rounded-t-full rounded-r-full text-white font-bold">
-                    {/* <TypeAnimation
-                        sequence={[
-                            "Hi, I'm", // Types 'One'
-                            1000, // Waits 1s
-                            '',
-                            1000
-                        ]}
-                        wrapper="span"
-                        cursor={true}
-                        repeat={Infinity}
-                        style={{ fontSize: '2em', display: 'inline-block' }}
-                    /> */}
                     Hi, I'm
                 </div>
                 <h1 className="text-4xl md:text-6xl font-extrabold mt-5 text-gray-700 md:text-start text-center">

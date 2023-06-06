@@ -20,7 +20,7 @@ export const Doit = () => {
                     <FaCode size={50} color='#9333EA' />
                 </div>
                 <div className="text-center md:text-left">
-                    <p className="text-xl font-semibold">Projects</p>
+                    <p className="text-xl font-semibold">Projects with International Companies</p>
                 </div>
             </div>
             <div className="flex flex-col md:flex-row gap-4 justify-center">
@@ -29,7 +29,7 @@ export const Doit = () => {
                     <FaLanguage size={50} color='#9333EA' />
                 </div>
                 <div className="text-center md:text-left">
-                    <p className="text-xl font-semibold">English (B1)</p>
+                    <p className="text-xl font-semibold">English (B2+)</p>
                     <p className="text-primary font-semibold text-lg">Spanish</p>
                 </div>
             </div>

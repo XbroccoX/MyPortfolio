@@ -20,13 +20,13 @@ export const AboutMe = () => {
                         a team. Dedicated to staying up-to-date with the latest developments in front-end technologies.
                     </p>
                     <div className='flex justify-center items-center justify-around mt-4'>
-                        <a className="flex justify-around items-center bg-violet-700 hover:scale-x-105 transition-all text-white  border   font-bold py-3 px-6 rounded-full w-fit" href="https://drive.google.com/file/d/1nEfgfwtsndOYAmwCzJIgTM1iixB7H2bu/view?usp=sharing" target="_blank" rel="noreferrer">
+                        <a className="flex justify-around items-center bg-violet-700 hover:scale-x-105 transition-all text-white  border   font-bold py-2 px-3 md:py-3 md:px-6 rounded-full w-fit" href="https://drive.google.com/file/d/1nEfgfwtsndOYAmwCzJIgTM1iixB7H2bu/view?usp=sharing" target="_blank" rel="noreferrer">
                             <span className='pr-2'>
                                 <img className='w-5' src={spain} alt="Spain flag" />
                             </span>
                             <p>Descargar CV</p>
                         </a>
-                        <a className="flex justify-around items-center bg-violet-700 hover:scale-x-105 transition-all text-white  border   font-bold py-3 px-6 rounded-full w-fit" href="https://drive.google.com/file/d/1nEfgfwtsndOYAmwCzJIgTM1iixB7H2bu/view?usp=sharing" target="_blank" rel="noreferrer">
+                        <a className="flex justify-around items-center bg-violet-700 hover:scale-x-105 transition-all text-white  border   font-bold py-2 px-3 md:py-3 md:px-6 rounded-full w-fit" href="https://drive.google.com/file/d/1nEfgfwtsndOYAmwCzJIgTM1iixB7H2bu/view?usp=sharing" target="_blank" rel="noreferrer">
                             <span className='pr-2'>
                                 <img className='w-5' src={usaFlag} alt="Spain flag" />
                             </span>

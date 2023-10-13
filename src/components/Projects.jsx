@@ -6,10 +6,20 @@ import pokemon from "../assets/projects/pokemon.jpg";
 import tesloshop from "../assets/projects/tesloshop.jpg";
 import CHMaquina from "../assets/projects/CHMaquina.jpg";
 import Luxe from "../assets/projects/Luxe.jpg";
+import SpotifyImage from "../assets/projects/SpotifyProyectImage.jpg";
 
 const projects = [
   {
     id: 1,
+    img: Luxe,
+    title: "Spotify Project - Landing page",
+    url: "https://nextjs-spotify-andes.vercel.app/",
+    git: "https://github.com/XbroccoX/Nextjs-spotify-project",
+    description: "This Spotify project, is a clone of the original Spotify",
+    tags: ["Next.js", "React.js", "Tailwind", "Recoil", "NextAuth"],
+  },
+  {
+    id: 2,
     img: Luxe,
     title: "Luxe Dental Clinic - Landing page",
     url: "https://agency-accelerator.vercel.app/en",
@@ -18,7 +28,7 @@ const projects = [
     tags: ["Next.js", "React.js", "Tailwind", "Typescript", "MUI"],
   },
   {
-    id: 2,
+    id: 3,
     img: pokemon,
     title: "Pokemon Card",
     url: "https://xbroccoxpokenextjs.vercel.app/",
@@ -28,7 +38,7 @@ const projects = [
     tags: ["Next.js", "PokeApi", "NextUI", "GSP"],
   },
   {
-    id: 3,
+    id: 4,
     img: CHMaquina,
     title: "Brocco Machine",
     url: "https://ch-maquina-js.vercel.app/",
@@ -38,7 +48,7 @@ const projects = [
     tags: ["Javascript", "Css", "Html", "Vanilla"],
   },
   {
-    id: 4,
+    id: 5,
     img: tesloshop,
     title: "Teslo shop",
     url: "https://brocco-shop-mzl-xbroccox.vercel.app/",
@@ -48,7 +58,7 @@ const projects = [
     tags: ["Next.js", "MongoDB", "Material UI", "Rest Full API", "Docker"],
   },
   {
-    id: 5,
+    id: 6,
     img: null,
     title: "Brocco Jira",
     url: "",
@@ -58,7 +68,7 @@ const projects = [
     tags: ["Next.js", "MongoDB", "Bootstrap", "Dragable"],
   },
   {
-    id: 6,
+    id: 7,
     img: null,
     title: "Task Manager",
     url: "",
@@ -68,7 +78,7 @@ const projects = [
     tags: ["React.js", "Hooks"],
   },
   {
-    id: 7,
+    id: 8,
     img: traductor,
     title: "ChatGpt Translate",
     url: "https://traductor-chat-gpt3turbo-ztuh-xbroccox.vercel.app/",

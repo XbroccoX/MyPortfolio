@@ -11,7 +11,7 @@ import SpotifyImage from "../assets/projects/SpotifyProyectImage.jpg";
 const projects = [
   {
     id: 1,
-    img: Luxe,
+    img: SpotifyImage,
     title: "Spotify Project - Landing page",
     url: "https://nextjs-spotify-andes.vercel.app/",
     git: "https://github.com/XbroccoX/Nextjs-spotify-project",
